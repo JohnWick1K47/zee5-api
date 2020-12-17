@@ -1,5 +1,7 @@
 # zee5-api
 
+## Get ZEE5 URL From Here 👉 <tt>https://www.zee5.com/</tt> 👈 <br><br>
+
 ### for movies<br><br>
 
 *Request:*
