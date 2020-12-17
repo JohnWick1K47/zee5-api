@@ -38,7 +38,7 @@ $resStr = str_replace('drm', 'hls', $hlss);
 header("Content-Type: application/json");
 $errr= array("error" => "error provide proper input!" );
 $err =json_encode($errr);
-$apii = array("title" => $title, "description" => $des, "thumbnail" => $image, "video_url" => $url);
+$apii = array("title" => $title, "description" => $des, "thumbnail" => $image, "video_url" => $url, "subtitle_url" => $sub);
 $api =json_encode($apii);
 if($error ==101){
 echo $err;
