@@ -7,7 +7,7 @@
 *Request:*
 
 ```bash
-http://pzee5.herokuapp.com?q=https://www.zee5.com/movies/details/vikram-vedha-2017-watch-it-on-zee5/0-0-movie_1460826290
+https://zee5p.herokuapp.com/?q=https://www.zee5.com/movies/details/vikram-vedha-2017-watch-it-on-zee5/0-0-movie_1460826290
 ```
 
 *Response:*
@@ -27,7 +27,7 @@ http://pzee5.herokuapp.com?q=https://www.zee5.com/movies/details/vikram-vedha-20
 *Request:*
 
 ```bash
-http://pzee5.herokuapp.com/?q=https://www.zee5.com/zee5originals/details/watch-auto-shankar-online/0-6-1593/episode-2-the-power-game/0-1-203894
+https://zee5p.herokuapp.com/?q=https://www.zee5.com/zee5originals/details/watch-auto-shankar-online/0-6-1593/episode-2-the-power-game/0-1-203894
 ```
 
 *Response:*
