@@ -41,3 +41,11 @@ https://zee5p.herokuapp.com/?q=https://www.zee5.com/zee5originals/details/watch-
   "subtitle_url": null
 }
 ```
+
+*How to play on desktop*
+
+1) Paste the link.
+2) When you get the button "copy link", click on that.
+3) Open VLC player in your desktop
+4) Press control + N and then paste the link
+5) Press Ok and enjoy your video.
