@@ -39,4 +39,14 @@ https://zee5api.tk/?q=https://www.zee5.com/zee5originals/details/watch-auto-shan
   "Video_URL": "https://zee5vodnd.akamaized.net/hls1/1080p/movies/MOVIE_PROJECT/PROGRAMS/ORIGINAL_CONTENT/TAMIL/AUTO_SHANKAR_TAMIL_EP02_ta_32f3c9f8.mp4/index.m3u8?hdnea=st=1610345588~exp=1610348588~acl=/*~hmac=2e7f3c2bab217c50a5ddee3c091e0ca3d19c7ec3e8a51e778dbc2dc497da428b"
 }
 ```
+
+*How to play on desktop*
+
+1) Paste the link.
+2) When you get the button "copy link", click on that.
+3) Open VLC player in your desktop
+4) Press control + N and then paste the link
+5) Press Ok and enjoy your video.
+=======
 ### Special Thanks to Manoj
+=======
