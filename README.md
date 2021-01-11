@@ -46,7 +46,7 @@ https://zee5api.tk/?q=https://www.zee5.com/zee5originals/details/watch-auto-shan
 2) When you get the button "copy link", click on that.
 3) Open VLC player in your desktop
 4) Press control + N and then paste the link
-5) Press Ok and enjoy your video.
+5) Press Ok and enjoy your video.<br><br>
 =======
 ### Special Thanks to Manoj
 =======
